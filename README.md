@@ -1,0 +1,4 @@
+MagentoNew
+==========
+
+Magento project
